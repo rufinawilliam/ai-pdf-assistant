@@ -7,4 +7,5 @@ langchain-google-genai
 faiss-cpu
 pypdf
 sentence-transformers
+torch
 python-dotenv

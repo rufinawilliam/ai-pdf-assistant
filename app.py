@@ -10,11 +10,11 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Page configuration
 st.set_page_config(
-    page_title="AI PDF Assistant",
+    page_title="RUFI's AI PDF Assistant",
     page_icon="📄"
 )
 
-st.title("📄 AI PDF Assistant")
+st.title("📄 RUFI's AI PDF Assistant")
 st.write("Upload any PDF and ask questions about its content.")
 
 load_dotenv()
